@@ -2,7 +2,7 @@
 This project implements and trains a **Spiking Neural Network (SNN)** using the **[SpikingJelly]** framework on the **DVS128 Gesture dataset**, a neuromorphic dataset based on event-driven vision sensors.
 
 
-## 🧩 Project Overview
+## Project Overview
 
 This project shows how to:
 
@@ -10,7 +10,7 @@ This project shows how to:
 - Build a simple SNN model using **Leaky Integrate-and-Fire (LIF)** neurons.
 - Train and evaluate the network for gesture classification.
 
-  ## 🚀 Model Architecture
+  ## Model Architecture
 
 ```text
 Input (2 channels, 128×128, 10 frames)
